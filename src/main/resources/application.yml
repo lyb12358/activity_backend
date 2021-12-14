@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: prod
+wx:
+  mp:
+    appId: wx912540cfded24ac6
+    secret: 413a3d8c4759a6f6ff2aa9732eff938b
+    token: 111
+    aesKey: 111
+  miniapp:
+    appId: wxe111f31de4f3ce60
+    secret: 87f0b97fb63754906cc4fccb5a8be835
+    token: 111
+    aesKey: 111
+    msgDataFormat: JSON
